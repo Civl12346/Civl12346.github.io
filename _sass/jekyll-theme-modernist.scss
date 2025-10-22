@@ -1,4 +1,4 @@
-@import "rouge-base16-dark";
+@use "rouge-base16-dark";
 @import url('https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700');
 
 html {
@@ -10,8 +10,8 @@ html {
 body {
   padding:50px 0;
   margin:0;
-  font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#555;
+  font:18px/1.5 Lato Arial, "Helvetica Neue", Helvetica, sans-serif;
+  color:#0b0b0b;
   font-weight:300;
   background:url('../images/checker.png') fixed;
   min-height: calc(100% - 100px);
@@ -161,7 +161,7 @@ header {
 
 section {
   padding:15px 20px;
-  font-size:15px;
+  font-size:18px;
   border-top:1px solid #fff;
   background: linear-gradient(#fafafa, #DEDEDE 700px);
   border-radius: 0 0 8px 8px;
