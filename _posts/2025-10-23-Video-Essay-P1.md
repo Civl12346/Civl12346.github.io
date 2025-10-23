@@ -16,7 +16,7 @@ _You reply, "So what?"_
 
 You see, I have told you something of myself (that I like frogs), but I have told you nothing about frogs or your relationship to them. Similarly, if I say, _"frogs are green"_ I still have not told you something about frogs or your relationship to them. I have only told what I _think_. Can you trust that what I said about frogs is true? Do I mean all frogs are green or only one type of frog? If you thought frogs were blue, why would me saying otherwise lead you to think differently? This is because I have only said something about myself. Therefore, in order to speak about something other than ourselves, we must have more than just a conclusion.
 
-> To develop out framework, we will call this kind of conclusion a **claim** (or **non-base claim**) which we'll define to mean a statement.
+> To develop our framework, we will call this kind of conclusion a **claim** (or **non-base claim**) which we'll define to mean a statement.
 
 So, if a claim lets us only speak of ourselves, how do we speak about other things? I argue that this is where we need reasoning and something called a _base claim_.
 
@@ -74,7 +74,7 @@ One more rule and then we'll try and put them into practice and see how this fra
 >
 > The more **different** a claim is from a base claim the **less valid** the reasoning between them tends to be.
 
-Here is a quick example about truth within our frame work:
+Here is a quick example about truth within our framework:
 
 Let's say _a_ + _b_ + _c_ = _d_ 
 
@@ -88,7 +88,7 @@ Now let's assume that
 
 * _a_ = 5 is true (a statement we accept).
 * _b_ = 3 is false (a statement we do not accept).
-* _c_ = 4 is as equally likely to be true as it is to be false (a statemtent we are uncertain about).
+* _c_ = 4 is as equally likely to be true as it is to be false (a statement we are uncertain about).
 
 Therfore, we claim that _d_ = 12. However, based on one of our previous rules, we see that our claim is **uncertain**.
 
@@ -143,7 +143,7 @@ I would claim, and I think most people would agree, that the "_dx_" for our argu
 
 This is much better. Now we are not comparing a single frog to an _entire species_ of frog but a single frog to _possible frogs_ within a species. I think most people would be willing to accept this claim based on the fact that you saw a green frog of that species. 
 
-But what if we _are_ trying to claim that **all frogs are green**? The process we went through is no longer helpful because we can no longer change our claim to bring it closer to the base claim. This is purpose of the unit argument. Unit arguments can be used to build unit argument chains (for brevity I will occasionally refer to these as unit chains with the word argument implied). There are two types of unit argument chains:
+But what if we _are_ trying to claim that **all frogs are green**? The process we went through is no longer helpful because we can no longer change our claim to bring it closer to the base claim. This is the purpose of the unit argument. Unit arguments can be used to build unit argument chains (for brevity I will occasionally refer to these as unit chains with the word argument implied). There are two types of unit argument chains:
 
 > A **horizontal unit argument chain** is a collection of some number of unit arguments where the claim of the 1st unit argument is the base claim of the 2nd unit argument and the claim of the 2nd unit argument is the base claim of the 3rd unit argument and so on and so forth.
 >
@@ -188,8 +188,35 @@ Based on our scale* before where,
 > *Technically you can end up with something more false than false (>1) so to bring it in range you would need to scale by the difference in truth between the non-base claim and base claim. This is more so a thing for our mathematical illustration.
 > * * *
 
-we can see that from too many claims that are slightly false we have reached a completely false claim. This creates a balancing game for our arguments. We want more unit arguments to bridge that gap between our starting the non-base claim and base claim of our argument, but if each unit argument is not totally true then our argument will start to weaken the more we add. This can be helped by incorporating accepted claims into our unit chain.
+we can see that from too many claims that are slightly false we have reached a completely false claim. However, if we accept that _1 = 1.1_ is a little true then we would end up saying _1 = 2_ is true. This is where your perspective and the specifics of the argument comes in. For some purpose, it may legitamitely be acceptable to say that _1 = 2_ despite them being different.
 
 
+We have now introduced a balancing game for our arguments. We want more unit arguments to bridge that gap between our starting non-base claim and base claim of our argument, but if each unit argument is not totally true then our argument will start to weaken the more we add (on the flip side we may try to make lots of small, mostly true claims to strengthen our argument). This can be helped by incorporating sourced claims into our unit chain. These help to strengthen our argument and provide an acceptable base claim.
 
+I mentioned introducing lots of small mostly true claims to strengthen our argument. This is where vertical unit chains become important. If I want to argue that,
 
+**I saw a frog. It is green. All frogs of a certain species are green.**
+
+I could make multiple arguments saying,
+
+**I saw a frog. It is green. That species of frog can be green.**
+
+Basically, if I look at enough frogs of a specific species and found all of them to be green I could try and make the argument that all frogs of that species are green.
+
+_My unit arguments:_
+
+**I saw frog A-1. It is green. That species of frog can be green.**
+
+**I saw frog A-2. It is green. That species of frog can be green.**
+
+**I saw frog A-3. It is green. That species of frog can be green.**
+
+**I saw frog A-4. It is green. That species of frog can be green.**
+
+**I saw frog A-5. It is green. That species of frog can be green.**
+
+_My Argument:_
+
+**I looked at 5 frogs of the same species. They were all green. All frogs of that species must be green**.
+
+In this case all of the unit arguments are true, so the more I add the stronger the argument becomes. Note that even though the sum of our unit arguments is true our final claim is probably not. Because if we compare our argument's claim to its base claim, we are comparing 5 frogs to an entire species. We need more unit arguments to strengthen our overall argument.
